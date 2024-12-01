@@ -28,6 +28,8 @@ Project Structure✅
  README.md             # Project overview
 
 Full Adder Block-Level Design✅
+![image](https://github.com/user-attachments/assets/1318640f-3c2e-4119-ba28-f311934eaec5)
+
 
 Functional Overview✅
 
@@ -85,6 +87,8 @@ Results✅
 
 - Simulation Results: Verify that the Sum and Carry-out outputs are correct for all input combinations (A, B, Cin).
 - Hardware Results: When the design is implemented on the ZedBoard, use the switches to set the inputs and observe the LEDs lighting up according to the Sum and Carry-out outputs.
+- ![Uploading image.png…]()
+
 
 Challenges Addressed✅
 
